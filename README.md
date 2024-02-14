@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do primeiro Challenge do Bootcamp Alura
 
 ## Link da Aplicação
 
-[Decodificador de Textos](https://exemplo.com)
+[Decodificador de Textos](https://jediaelsantana31.github.io/codificador-texto)
 
 ## Sobre o Desafio
 
