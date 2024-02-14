@@ -131,7 +131,10 @@
 
 
 .about__content {
-    margin: 2rem;
+    margin: 0 2.5rem 2.5rem 2.5rem;
+    display: flex;
+    flex-direction: column;
+    max-width: 68%;
 }
 
 .about__title {
